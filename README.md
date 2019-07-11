@@ -4,3 +4,4 @@
 ＃-exefile.exe截图工具（不用登陆QQ微信就能截图，而且像素还不失真）
 ＃ -  screnc.exe .bat程序加密工具
 ＃ -  scrdec.exe加密后的.bat程序解密
+＃ - 旁路抢票软件（火车票，亲测有效）
