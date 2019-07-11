@@ -1,0 +1,2 @@
+ReflectorInstaller_10.0.7.774.exe是安装器，安装后生成上面两个文件夹，
+Desktop 10.0文件夹中Reflector.exe才是反编译器。
